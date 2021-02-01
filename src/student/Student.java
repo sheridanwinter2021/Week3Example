@@ -18,6 +18,7 @@ public class Student {
     {
         //learning github local rep,commit ,push
         //change
+    //pull
     }
     
 }
